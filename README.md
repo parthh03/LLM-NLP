@@ -27,9 +27,9 @@ The project is designed to be user-friendly, making it easy to get started.
 
 
 ## Dependencies
-Python
-Hugging Face Transformers
-YouTube Transcript API
-NLTK
-scikit-learn
+Python,
+Hugging Face Transformers,
+YouTube Transcript API,
+NLTK,
+scikit-learn,
 NumPy
